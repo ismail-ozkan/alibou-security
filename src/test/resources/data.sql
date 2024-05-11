@@ -1,0 +1,1 @@
+INSERT INTO _user(id, firstname, lastname, email, password, role) VALUES (12,"ismail", "ozkan","ismail@mail.com","asd123", Role.USER);
